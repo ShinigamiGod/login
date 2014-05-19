@@ -1,6 +1,6 @@
     
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<script src="js/bootstrap.min.js"></script>
+<link href="bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap.min.js"></script>
 <div class="alert alert-warning alert-dismissable">
 <i class="fa fa-exclamation-triangle"></i>construction.
 </div>
